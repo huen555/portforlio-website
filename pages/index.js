@@ -113,7 +113,7 @@ export default function Home() {
               <li>
                 <a
                   className="bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md ml-4 text-sx sm:text-xl"
-                  href="https://drive.google.com/file/d/1_rpqXh9K8UnlmvX8sBHj8szS9DoyAmiy/view"
+                  href="https://drive.google.com/file/d/1Qkn-QusvczbXYWMBIEtOPZne4jza4Lmq/view?usp=share_link"
                 >
                   Resume
                 </a>
@@ -128,9 +128,8 @@ export default function Home() {
               Web Developer
             </h3>
             <p className="text-md py-5 leading-8 text-gray-800 md:text-xl max-w-lg mx-auto dark:text-white">
-              A person who is passionate about programming. Currently, my strong
-              point is the client side processing, I am improving the server
-              side knowledge to become better
+              A person who is passionate about programming. Currently, my goal
+              is to become a fullstack developer
             </p>
           </div>
           <div className="mx-auto bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 mt-5 overflow-hidden md:w-96 md:h-96">
@@ -177,10 +176,12 @@ export default function Home() {
                 Frameworks/Platforms
               </h3>
               <p className="text-gray-800 py-1">ReactJS</p>
+              <p className="text-gray-800 py-1">NodeJS</p>
               <p className="text-gray-800 py-1">NextJS</p>
+              <p className="text-gray-800 py-1">Express</p>
+              <p className="text-gray-800 py-1">Tailwind CSS</p>
               <p className="text-gray-800 py-1">SCSS</p>
               <p className="text-gray-800 py-1">Bootstrap</p>
-              <p className="text-gray-800 py-1">Tailwind CSS</p>
             </div>
             <div className="text-center shadow-lg p-10 rounded-xl my-10 dark:bg-gray-400">
               <Image
@@ -194,6 +195,7 @@ export default function Home() {
                 Data Management Systems
               </h3>
               <p className="text-gray-800 py-1">MS SQL Server</p>
+              <p className="text-gray-800 py-1">MySQL</p>
               <p className="text-gray-800 py-1">SAP</p>
             </div>
           </div>
