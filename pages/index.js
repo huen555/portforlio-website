@@ -178,7 +178,7 @@ export default function Home() {
               <p className="text-gray-800 py-1">ReactJS</p>
               <p className="text-gray-800 py-1">NodeJS</p>
               <p className="text-gray-800 py-1">NextJS</p>
-              <p className="text-gray-800 py-1">Express</p>
+              <p className="text-gray-800 py-1">ExpressJS</p>
               <p className="text-gray-800 py-1">Tailwind CSS</p>
               <p className="text-gray-800 py-1">SCSS</p>
               <p className="text-gray-800 py-1">Bootstrap</p>
